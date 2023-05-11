@@ -1,0 +1,97 @@
+.nirbhay-row{
+    height: 200px;
+    border: 2px dashed;
+}
+.nirbhay-row > div{
+    height: 100%;
+    border: 2px dashed;
+}
+.nirbhay-row-1{
+    height: 100px;
+    border: 2px dashed #9892a7;
+}
+.nirbhay-row-1 > div{
+    height: 100%;
+    border: 2px dashed rgba(0, 0, 255, 0.696);
+}
+.nirbhay-row-2{
+    height: 100px;
+    border: 1px solid black;
+}
+.nirbhay-row-2 > div:first-child{
+    height: 100%;
+    background-color: rgb(51, 153, 134);
+}
+.nirbhay-row-2 > div:nth-child(2){
+    height: 100px;
+    background-color: rgb(0, 255, 200);
+}
+.nirbhay-row-2 > div:nth-child(3){
+    height: 100px;
+    background-color: rgb(203, 255, 192);
+}
+.nirbhay-row-2 > div:nth-child(4){
+    height: 100px;
+    background-color: rgb(255, 0, 234);
+}
+.nirbhay-row-2 > div:nth-child(5){
+    height: 100px;
+    background-color: saddlebrown;
+}
+.nirbhay-row-2 > div:nth-child(6){
+    height: 100px;
+    background-color: lawngreen;
+}
+
+.nirbhay-row-3{
+    height: 100px;
+    border: 1px solid black;
+}
+.nirbhay-row-3 > div:first-child{
+    height: 100%;
+    background-color: rebeccapurple;
+}
+.nirbhay-row-3 > div:nth-child(2){
+    height: 100px;
+    background-color: red;
+}
+.nirbhay-row-3 > div:nth-child(3){
+    height: 100px;
+    background-color: pink;
+}
+.nirbhay-row-3 > div:nth-child(4){
+    height: 100px;
+    background-color: orange;
+}
+.nirbhay-row-3 > div:nth-child(5){
+    height: 100px;
+    background-color: teal;
+}
+.nirbhay-row-3 > div:nth-child(6){
+    height: 100px;
+    background-color: lawngreen;
+}
+.nirbhay-row-3 > div:nth-child(7){
+    height: 100px;
+    background-color: sandybrown;
+}
+.nirbhay-row-3 > div:nth-child(8){
+    height: 100px;
+    background-color: darkblue;
+}
+.nirbhay-row-3 > div:nth-child(9){
+    height: 100px;
+    background-color: lightgray;
+}
+.nirbhay-row-3 > div:nth-child(10){
+    height: 100px;
+    background-color: khaki;
+}
+.nirbhay-row-3 > div:nth-child(11){
+    height: 100px;
+    background-color: hotpink;
+}
+.nirbhay-row-3 > div:nth-child(12){
+    height: 100px;
+    background-color: forestgreen;
+}
